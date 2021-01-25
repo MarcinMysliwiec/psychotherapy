@@ -52,40 +52,6 @@
     </div>
 </section>
 
-<!-- 
-    <section class="section bg-light-2">
-        <div class="container">
-        <div class="row justify-content-center text-center mb-5">
-            <div class="col-md-8">
-            <h2 class="heading" data-aos="fade-up">Experience Once In Your Life Time</h2>
-            <p class="lead" data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from
-                the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-                right at the coast of the Semantics, a large language ocean.</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up">
-            <div class="d-block ftco-img-flaticon">
-                <img src="fonts/flaticon/svg/001-breakfast.svg" alt="Image" class="img-fluid mb-4">
-                <h3>PSYCHOTERAPIA INDYWIDUALNA</h3>
-            </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="d-block ftco-img-flaticon">
-                <img src="fonts/flaticon/svg/002-planet-earth.svg" alt="Image" class="img-fluid mb-4">
-                <h3>PSYCHOTERAPIA PAR I MAŁŻEŃSTW</h3>
-            </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="d-block ftco-img-flaticon">
-                <img src="fonts/flaticon/svg/003-airplane.svg" alt="Image" class="img-fluid mb-4">
-                <h3>PSYCHOTERAPIA RODZINNA, DZIECI I MŁODZIEŻY</h3>
-            </div>
-            </div>
-        </div>
-        </div>
-    </section>
-    -->
 
 <section class="section blog-post-entry bg-light slant-top">
     <div class="container">
@@ -119,7 +85,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/img_3.jpg" alt="Image placeholder"
                             class="img-fluid"></a>
                     <div class="media-body">
-                        <h2 class="mt-0 mb-3">PSYCHOTERAPIA RODZINNA, DZIECI I MŁODZIEŻY</h2>
+                        <h2 class="mt-0 mb-3">PSYCHOTERAPIA GRUPOWA</h2>
                     </div>
                 </div>
             </div>
@@ -128,11 +94,70 @@
 </section>
 <!-- END section -->
 
+
+
+<section class="section methods bg-light-2">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-8">
+                <h2 class="heading" data-aos="fade-up">PSYCHOTERAPIA GESTALT</h2>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 d-flex flex-row justify-content-center align-items-center" data-aos="fade-up">
+                <img src="fonts/flaticon/svg/001-breakfast.svg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-md-8" data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
+                <h3>CZYM JEST?</h3>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">Terapia Gestalt opiera się na założeniu, że człowiek nie jest sumą cech, lecz nierozerwalną
+                    całością, zbudowaną z ciała, umysłu, emocji. Gestalt lokuje się w nurcie psychoterapii
+                    humanistycznej. Opiera się na założeniu, że poszerzenie samoświadomości pozwala
+                    jednostce na przejęcie kontroli nad własnym życiem i pokonanie kryzysów lub zaburzeń
+                    psychicznych.  Wskazuje również na niepowtarzalność każdej osoby, co nadaje unikalne
+                    znaczenie jej życiu. Zgodnie z założeniami psychoterapii Gestalt, człowiek ma zasadniczy
+                    wpływ na swój los.  Przy wsparciu zdolny jest odnaleźć odpowiedzi na dręczące go pytania
+                    oraz wypracować własne sposoby radzenia sobie z trudnościami, których doświadcza.
+                    Człowiek może pokierować własnym losem, czerpiąc z zasobów własnego umysłu, ciała,
+                    emocji.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8" data-aos="fade-up" data-aos-delay="100">
+                <h3>METODA</h3>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">Terapia Gestalt opiera się na szczególnej relacji klienta i terapeuty. Bazuje ona na relacji
+                    dwojga ludzi, w której jeden towarzyszy drugiemu w poszukiwaniu sensu aktualnych
+                    doświadczeń, nie zajmując przy tym pozycji eksperta, a jedynie przewodnika. Dzięki pracy w
+                    gabinecie klient poszerza świadomość i buduje doświadczenia, które przenosi do realnego
+                    życia. Przy wsparciu terapeuty zdolny jest odnaleźć odpowiedzi na dręczące go pytania oraz
+                    wypracować własne sposoby radzenia sobie z trudnościami. Podczas terapii pracuje się w
+                    oparciu o różne doświadczenia, eksperymenty, rozmowę. Każdy proces terapeutyczny jest
+                    dostosowany do indywidualnych potrzeb klienta.</p>
+            </div>
+            <div class="col-md-4 d-flex flex-row justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="100">
+                <img src="fonts/flaticon/svg/001-breakfast.svg" alt="Image" class="img-fluid">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 d-flex flex-row justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="100">
+                <img src="fonts/flaticon/svg/001-breakfast.svg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-md-8" data-aos="fade-up" data-aos-delay="100">
+                <h3>CEL</h3>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">Celem terapii Gestalt jest odblokowanie naturalnego procesu samoregulacji i przywrócenie
+                    jednostce poczucia odpowiedzialności za swoje życie. Terapia prowadzi do budowania
+                    poczucia sensu istnienia. Istotą pracy jest uwolnienie zablokowanych emocji, które
+                    przeszkadzają tworzyć dobre relacje ze światem, ze sobą, z innymi.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="section testimonial-section bg-light-2">
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">OPINIE PACJENTÓW</h2>
+                <h2 class="heading" data-aos="fade-up">PSYCHOTERAPIA GESTALT</h2>
             </div>
         </div>
         <div class="row">
@@ -141,20 +166,22 @@
                     {{-- <div class="author-image mb-3">
                 <img src="img/person_1.jpg" alt="Image placeholder" class="rounded-circle">
                 </div> --}}
+                    <p class="title">Czym jest?</p>
                     <blockquote>
                         <p>
-                            &ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla augue eros, dictum ac
-                            dolor ac, finibus molestie lacus. In placerat eros ex. Quisque tincidunt quis ligula ac
-                            rhoncus. Aenean aliquam augue velit, a pharetra arcu laoreet eget. In hac habitasse platea
-                            dictumst. Sed commodo efficitur libero, et lobortis risus venenatis non. Fusce at sodales
-                            nunc. Nunc egestas varius diam, nec hendrerit tellus interdum et. Orci varius natoque
-                            penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ex leo, porta
-                            non pretium at, varius euismod dolor. Nullam eleifend metus venenatis, finibus mauris ut,
-                            dapibus ligula.
-                            &rdquo;
+                            Terapia Gestalt opiera się na założeniu, że człowiek nie jest sumą cech, lecz nierozerwalną
+                            całością, zbudowaną z ciała, umysłu, emocji. Gestalt lokuje się w nurcie psychoterapii
+                            humanistycznej. Opiera się na założeniu, że poszerzenie samoświadomości pozwala
+                            jednostce na przejęcie kontroli nad własnym życiem i pokonanie kryzysów lub zaburzeń
+                            psychicznych.  Wskazuje również na niepowtarzalność każdej osoby, co nadaje unikalne
+                            znaczenie jej życiu. Zgodnie z założeniami psychoterapii Gestalt, człowiek ma zasadniczy
+                            wpływ na swój los.  Przy wsparciu zdolny jest odnaleźć odpowiedzi na dręczące go pytania
+                            oraz wypracować własne sposoby radzenia sobie z trudnościami, których doświadcza.
+                            Człowiek może pokierować własnym losem, czerpiąc z zasobów własnego umysłu, ciała,
+                            emocji.
                         </p>
                     </blockquote>
-                    <p><em>&mdash; Kazimierz W.</em></p>
+{{--                    <p><em>&mdash; Kazimierz W.</em></p>--}}
                 </div>
             </div>
             <!-- END col -->

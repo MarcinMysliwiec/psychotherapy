@@ -54,17 +54,20 @@
             <div class="col-md-5">
                 <div class="row">
                     <div class="col-md-10 ml-auto contact-info">
+                        <p class="name">Krzysztof Bubnowski</p>
                         <p>
                             <span class="d-block">Adres:</span>
-                            <span> Poznań</span>
+                            <span> Kalinowa 8</span>
+                            <br>
+                            <span> 61-436 Poznań</span>
                         </p>
                         <p>
                             <span class="d-block">Numer Telefonu:</span>
-                            <span> 111 111 111</span>
+                            <span> 602 457 092</span>
                         </p>
                         <p>
                             <span class="d-block">Email:</span>
-                            <span> contact@contact.com</span>
+                            <span> <a href="mailto:k.bubnowski.psychoterapia@gmail.com ">k.bubnowski.psychoterapia@gmail.com </a></span>
                         </p>
                     </div>
                 </div>

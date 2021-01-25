@@ -72,12 +72,13 @@
         <div class="top">
             <div class="container">
                 <h3>Psychoterapeutyka</h3>
-    
                 <div>
-                    <a href="mailto:example@example.com">example@example.com</a>
-                    <p>111 111 111</p>
+                    <a href="mailto:k.bubnowski.psychoterapia@gmail.com ">k.bubnowski.psychoterapia@gmail.com </a>
+                    <p>Krzysztof Bubnowski</p>
+                    <p>602 457 092</p>
                     <p>Gabinet psychologiczny znajduje się w:</p>
-                    <p>Poznań</p>
+                    <p>Kalinowa 8 </p>
+                    <p>61-436 Poznań</p>
                 </div>
             </div>
         </div>
